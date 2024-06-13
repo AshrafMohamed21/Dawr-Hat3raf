@@ -35,7 +35,7 @@
 </head>
 <body>
     <header>
-        <h1>دور - الموقع الإخباري</h1>
+        <h1>دور هتعرف - الموقع الإخباري</h1>
     </header>
     <div class="container">
         <div class="news">
